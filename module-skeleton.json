@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-campaigns-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-campaigns",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-campaigns-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/campaigns.md",
+  "presentationPlan": "projects/crm/nextjs/campaigns.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
